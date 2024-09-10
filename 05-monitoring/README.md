@@ -105,7 +105,7 @@ Note: all actions expected to be executed in repo folder.
 - Install required packages `pip install -r requirements.txt`
 - Run `baseline_model_nyc_taxi_data.ipynb` for downloading datasets, training model and creating reference dataset 
 
-## Monitoring Example
+## Monitoring Example                                 
 
 ### Starting services
 
